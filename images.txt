@@ -1,2 +1,2 @@
 nginx
-incubator-doris:build-env-1.4.2
+incubator-doris
